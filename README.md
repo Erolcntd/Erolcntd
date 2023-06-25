@@ -1,6 +1,6 @@
 ![MasterHead](https://freelinkedinbackgrounds.com/wp-content/uploads/2015/01/Technology-003.jpg)
 
-<h1 align="center">Hi 👋, I'm Erolcan Taşdemir</h1>
+<h1 align="center">I'm Erolcan Taşdemir</h1>
 <h3 align="center">An innovative developer from Turkey</h3>
 
 - 📫 How to reach me **eroltd23@gmail.com**
