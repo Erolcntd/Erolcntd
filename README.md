@@ -3,12 +3,13 @@
 <h1 align="center">I'm Erolcan Taşdemir</h1>
 <h3 align="center">An innovative developer from Turkey</h3>
 
+![MasterHead](https://free4kwallpapers.com/uploads/originals/2020/05/02/morgan-codes-wallpaper.png)
+
 - 📫 How to reach me **eroltd23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/eroll.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eroll.de" height="30" width="40" /></a>
-<a href="https://discord.gg/Erol#9628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Erol#9628" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
