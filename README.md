@@ -1,6 +1,5 @@
 
-<br>
-<i><h1 align="center" bgcolor="black">I'm Erolcan Taşdemir</h1></i>
+<i><h1 align="center">I'm Erolcan Taşdemir</h1></i>
 <i><h3 align="center">An innovative developer from Turkey</h3></i>
 <br>
 
