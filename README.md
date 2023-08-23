@@ -7,7 +7,7 @@
 
 ![MasterHead](https://camo.githubusercontent.com/07a4cd9a89cd7fd1666cb0675bcfae03524e0b096b309f787fd975842a2b85a6/68747470733a2f2f6f6563642d6f7073692e6f72672f77702d636f6e74656e742f75706c6f6164732f323032302f31302f437261636b696e672d7468652d636f64652e6a7067)
 
-<br><br>
+<br>
 
 <p>🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.
 </p>
