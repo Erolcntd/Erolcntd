@@ -1,21 +1,19 @@
 
--📫 How to reach me **eroltd23@gmail.com**
-
-![MasterHead](https://www.iamthecode.org/wp-content/uploads/2021/03/florian-olivo-4hbJ-eymZ1o-unsplash-scaled-e1616631053918.jpg)
-
-
+<br>
 <i><h1 align="center" bgcolor="black">I'm Erolcan Taşdemir</h1></i>
 <i><h3 align="center">An innovative developer from Turkey</h3></i>
+<br>
 
 ![MasterHead](https://camo.githubusercontent.com/07a4cd9a89cd7fd1666cb0675bcfae03524e0b096b309f787fd975842a2b85a6/68747470733a2f2f6f6563642d6f7073692e6f72672f77702d636f6e74656e742f75706c6f6164732f323032302f31302f437261636b696e672d7468652d636f64652e6a7067)
-
 <br>
+
 <i><h1 align="center">Connect with me:</h1></i>
 <p align="center">
 <a href="https://instagram.com/eroll.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eroll.de" height="30" width="40" /></a>
 </p>
+<br>
 
-![MasterHead](https://gowithcode.com/wp-content/uploads/2021/04/top-programming-languages.jpg)
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQEtFcl-BRV-fQ/article-cover_image-shrink_720_1280/0/1667017572837?e=2147483647&v=beta&t=bKyCqEvvr_-N-xvwF8DkwpppNRfAIPq5qH9599pqkuw)
 
 <br>
 <i><h1 align="center">Languages and Tools</h1></i>
