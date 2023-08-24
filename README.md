@@ -1,7 +1,7 @@
 
 
 <hr>
-<h1 align="center">✔️I'm Erolcan Taşdemir</h1>
+<h1 align="center">🔱I'm Erolcan Taşdemir</h1>
 <i><h3 align="center">An innovative developer from Turkey</h3></i>
 
 
@@ -11,7 +11,7 @@
 <hr>
 <br>
 <br>
-<p>🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.
+<p>🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎
 </p>
 <br><br>
 <hr>
