@@ -28,7 +28,7 @@
 <h3 align="center">☑️Languages and Tools:</h3>
 <div id="container" align="center">
   <tbody>
-  <table>
+  <table border=25 width="15%">
     <tr>
 <p align="center"> 
  <td>
