@@ -13,9 +13,7 @@
    <br><br>
 <hr>
 
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQEtFcl-BRV-fQ/article-cover_image-shrink_720_1280/0/1667017572837?e=2147483647&v=beta&t=bKyCqEvvr_-N-xvwF8DkwpppNRfAIPq5qH9599pqkuw)
 
-<hr>
 
 <div id="container1" align="center">
  <tbody>
