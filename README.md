@@ -1,23 +1,24 @@
 ![MasterHead](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)
 
-<hr>
   <h1 align="center">💢I'm Erolcan Taşdemir</h1>
   <i><h3 align="center">An innovative developer from Turkey</h3></i>
-<hr>
 
-![MasterHead](https://camo.githubusercontent.com/07a4cd9a89cd7fd1666cb0675bcfae03524e0b096b309f787fd975842a2b85a6/68747470733a2f2f6f6563642d6f7073692e6f72672f77702d636f6e74656e742f75706c6f6164732f323032302f31302f437261636b696e672d7468652d636f64652e6a7067)
 
-<hr>
+<div align="center">
+  
+![MasterHead](https://i0.wp.com/khosann.com/wp-content/uploads/2017/05/ezgif.com-resize.gif?resize=600%2C263&ssl=1)
+
+</div>
+  
   <br><br>
       <p>🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎</p>
    <br><br>
-<hr>
 
 
 
 <div id="container1" align="center">
  <tbody>
-  <table border=25 width="15%">
+  <table border=10 width="15%">
     <tr>
       <h3 align="center">☑️Connect with me:</h3>
         <p align="center">
@@ -29,12 +30,11 @@
     </table>
   </tbody>
  </div>
-<hr>
 
 <h3 align="center">☑️Languages and Tools:</h3>
   <div id="container" align="center">
     <tbody>
-      <table border=25 width="15%">
+      <table border=10 width="15%">
       <tr>
         <p align="center"> 
       <td>
@@ -59,4 +59,3 @@
       </table>
     </tbody>
   </div>
-<hr>
