@@ -4,6 +4,7 @@
 
 ![MasterHead](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)
 
+
   <br><br>
       <p>🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎</p>
    <br><br>
