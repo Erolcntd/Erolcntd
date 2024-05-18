@@ -12,7 +12,7 @@
 
 <p align="center">  
   
-  <img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=1000" alt="MasterHead" style="width: 700px; height: 300px;">
+  <img src="https://i.pinimg.com/originals/49/7d/e1/497de1ee5e994fe2284dfa45048e21ef.gif" alt="MasterHead" style="width: 700px; height: 400px;">
 </p>
 
 
