@@ -18,7 +18,7 @@
    <br><br>
 
 <div id="container2" align="center">
-      <h3 align="center">Statistics</h3>
+      <h3 align="center">☑️Statistics</h3>
         <p align="center">
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=radical)
