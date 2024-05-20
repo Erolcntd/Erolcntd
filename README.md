@@ -7,11 +7,18 @@
       <p>🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎</p>
    <br><br>
 
-<p align="center">  
-  
-  <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" alt="MasterHead" style="width: 700px; height: 400px;">
-</p>
 
+
+
+<div id="container2" align="center">
+      <h3 align="center">Statistics</h3>
+        <p align="center">
+
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=radical)
+      </p>
+ </div>
+ 
 <div id="container1" align="center">
       <h3 align="center">☑️Connect with me:</h3>
         <p align="center">
@@ -21,6 +28,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eroll.d1709)
         </p>
  </div>
+
+
+
 
 <h3 align="center">☑️Technologies, Languages and Tools</h3>
   <div id="container" align="center">
