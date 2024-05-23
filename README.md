@@ -16,6 +16,10 @@
       <p>🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎</p>
    <br><br>
 
+<p align="center">  
+  
+  <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" alt="MasterHead" style="width: 700px; height: 450px;">
+</p>
 
  
 <div id="container1" align="center">
