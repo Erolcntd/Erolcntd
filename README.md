@@ -18,7 +18,7 @@
 
 <p align="center">  
   
-  <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" alt="MasterHead" style="width: 700px; height: 400px;">
+  <img src="https://i.pinimg.com/originals/b8/20/65/b820656afa9bae44931528e204bde612.gif" alt="MasterHead" style="width: 700px; height: 400px;">
 </p>
 
  
