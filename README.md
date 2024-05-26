@@ -75,7 +75,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eroltd23@gmail.com)
   </p>
  </div>
-<br>
+
 <br>
 <h3 align="center">☑️Technologies, Languages and Tools</h3>
   <div id="container" align="center">
