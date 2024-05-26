@@ -1,4 +1,4 @@
-
+<br>
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Erolcan+Taşdemir;Software+Developer;Welcome+To+My+Profile" alt="Typing SVG" />
@@ -6,21 +6,24 @@
 </div>
 
 <p align="center">  
-  
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="MasterHead" style="width: 1100px; height: 550px;">
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
+<br><br><br>
 
 
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 10px;">
+        🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎
+    </div>
+</div>
+<br><br>
 
-  <br><br>
-      <p>🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎</p>
-   <br><br>
-
-<p align="center">  
-  
+<p align="center">    
   <img src="https://64.media.tumblr.com/8425d2b77aeb1b55da1059c012b899c9/tumblr_n8yk3cVEMf1tgoap5o1_1280.gifv" alt="MasterHead" style="width: 700px; height: 400px;">
 </p>
-
+<br>
  
 <div id="container1" align="center">
       <h3 align="center">☑️Connect with me:</h3>
@@ -29,9 +32,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erolcan-taşdemir-912797292/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/erold1709)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eroll.d1709)
-        </p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eroltd23@gmail.com)
+  </p>
  </div>
 <br>
+
 <h3 align="center">☑️Technologies, Languages and Tools</h3>
   <div id="container" align="center">
         <p align="center"> 
