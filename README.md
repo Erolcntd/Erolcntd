@@ -55,10 +55,6 @@
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
  <br>
- <p align="center">    
-  <img src="https://64.media.tumblr.com/8425d2b77aeb1b55da1059c012b899c9/tumblr_n8yk3cVEMf1tgoap5o1_1280.gifv" alt="MasterHead" style="width: 700px; height: 400px;">
-</p>
-<br>
 
 <div id="container2" align="center">
       <h3 align="center">☑️Statistics</h3>
