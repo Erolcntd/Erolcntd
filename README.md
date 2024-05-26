@@ -12,6 +12,56 @@
 </p>
 <br>
 
+
+<br><br>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 10px;">
+        🟠"I am a graduate in Software Programming. I constantly strive to advance myself every day. I have set goals and endeavors to develop myself in the fields of Data Science and Artificial Intelligence. The languages I mostly use are Python, Java, C#, R, and C++. I particularly focus on these languages and strive to enhance my skills on various libraries associated with them. I read source codes written by others every day, which allows me to see what other developers can achieve and try to grasp something from them. Thanks to my detail-oriented personality, I immerse myself deeply into any topic I desire and do my best to learn it in the most detailed manner possible. As software development is something I do willingly and enjoyably, I demonstrate high potential in the field. I take pride in being a part of this industry."
+    </div>
+</div>
+<br><br><br>
+<div align="center">
+ <hr>
+🟢 My Interests
+</div>
+        <ul>
+            <li>🚀 Project Development</li>
+            <li>📄 Source Code Reading</li>
+            <li>🔢 Data Manipulation</li>
+            <li>🔗 Software Integration</li>
+        </ul>
+    </div>
+<div align="center">
+ <hr>
+🔵 My Hobbies
+</div>
+        <ul>
+            <li>🎮 Playing Computer Games</li>
+            <li>📚 Reading Books</li>
+            <li>🔍 Researching</li>
+            <li>💻 Coding</li>
+        </ul>
+    </div>
+</div>
+<div align="center">
+ <hr>
+👇 Below are some of my projects:👇
+</div>
+
+1. [XML to XSLT trasform](https://github.com/Erolcntd/XMl-To-XSLT)✔️
+2. [Python_with_User_analysis](https://github.com/Erolcntd/Python_with_User_analysis)✔️
+3. [reminder-alarm](https://github.com/Erolcntd/reminder-alarm)✔️
+ <br> <br>
+ <hr>
+<div id="container2" align="center">
+        <p align="center">
+
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Erolcntd)](https://github.com/Erolcntd/github-readme-stats)
+![Erolcntd github stats](https://github-readme-stats.vercel.app/api?username=Erolcntd&hide=contribs,prs)
+![Visitor Count](https://komarev.com/ghpvc/?username=eroll-d1709&color=blue&style=flat-square)
+      </p>
+ </div>
+ <hr>
 <div id="container1" align="center">
       <h3 align="center">☑️Connect with me:</h3>
         <p align="center">
@@ -22,8 +72,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eroltd23@gmail.com)
   </p>
  </div>
-<br><br>
-
+<br>
+<br>
 <h3 align="center">☑️Technologies, Languages and Tools</h3>
   <div id="container" align="center">
         <p align="center"> 
@@ -39,49 +89,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
-<br><br>
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 10px;">
-        🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎
-    </div>
-</div>
-<br><br>
-
-<div align="center">
-🌟 My Interests   
-  </div>
-<br>
-
-<div align="center">
-            🚀 Project Development ❗️
-            📄 Source Code Reading ❗️
-            🔢 Data Manipulation❗️
-            🔗 Software Integration ❗️
- </div>
- 
- <br><br>
- 
- <div align="center">           
-🌟 My Hobbies  
-  </div>
- <br>
-<div align="center">           
-            🎮 Playing Computer Games❗️
-            📚 Reading Books❗️
-            🔍 Researching❗️
-            💻 Coding ❗️      
-</div>
- 
- <br> <br>
-<div id="container2" align="center">
-        <p align="center">
-
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=radical)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=eroll-d1709&color=blue&style=flat-square)
-      </p>
- </div>
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
