@@ -1,19 +1,19 @@
 <br>
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
+ <a href="https://github.com/Erolcntd">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Erolcan+Taşdemir;Software+Developer;Welcome+To+My+Profile" alt="Typing SVG" />
  </a>
+ 
+ ![](https://komarev.com/ghpvc/?username=Erolcntd)
 </div>
 
 <p align="center">  
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="MasterHead" style="width: 1100px; height: 550px;">
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 <br>
 
 
-<br><br>
+<br>
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 10px;">
         🟠"I am a graduate in Software Programming. I constantly strive to advance myself every day. I have set goals and endeavors to develop myself in the fields of Data Science and Artificial Intelligence. The languages I mostly use are Python, Java, C#, R, and C++. I particularly focus on these languages and strive to enhance my skills on various libraries associated with them. I read source codes written by others every day, which allows me to see what other developers can achieve and try to grasp something from them. Thanks to my detail-oriented personality, I immerse myself deeply into any topic I desire and do my best to learn it in the most detailed manner possible. As software development is something I do willingly and enjoyably, I demonstrate high potential in the field. I take pride in being a part of this industry."
@@ -56,9 +56,8 @@
 <div id="container2" align="center">
         <p align="center">
 
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Erolcntd)](https://github.com/Erolcntd/github-readme-stats)
-![Erolcntd github stats](https://github-readme-stats.vercel.app/api?username=Erolcntd&hide=contribs,prs)
-![Visitor Count](https://komarev.com/ghpvc/?username=eroll-d1709&color=blue&style=flat-square)
+![Erolcntd's github stats](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=highcontrast)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=highcontrast)
       </p>
  </div>
  <hr>
@@ -90,5 +89,4 @@
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
