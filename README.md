@@ -10,7 +10,7 @@
   <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="MasterHead" style="width: 1100px; height: 550px;">
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
-<br><br><br>
+<br><br>
 
 
 <div style="display: flex; align-items: center;">
@@ -20,10 +20,12 @@
 </div>
 <br><br>
 
-<p align="center">    
-  <img src="https://64.media.tumblr.com/8425d2b77aeb1b55da1059c012b899c9/tumblr_n8yk3cVEMf1tgoap5o1_1280.gifv" alt="MasterHead" style="width: 700px; height: 400px;">
-</p>
-<br>
+
+
+<div align="center">
+ 
+ ![Visitor Count](https://komarev.com/ghpvc/?username=eroll-d1709&color=blue&style=flat-square)
+</div>
  
 <div id="container1" align="center">
       <h3 align="center">☑️Connect with me:</h3>
@@ -53,6 +55,10 @@
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
  <br>
+ <p align="center">    
+  <img src="https://64.media.tumblr.com/8425d2b77aeb1b55da1059c012b899c9/tumblr_n8yk3cVEMf1tgoap5o1_1280.gifv" alt="MasterHead" style="width: 700px; height: 400px;">
+</p>
+<br>
 
 <div id="container2" align="center">
       <h3 align="center">☑️Statistics</h3>
