@@ -10,23 +10,8 @@
   <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="MasterHead" style="width: 1100px; height: 550px;">
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
-<br><br>
+<br>
 
-
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 10px;">
-        🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎
-    </div>
-</div>
-<br><br>
-
-
-
-<div align="center">
- 
- ![Visitor Count](https://komarev.com/ghpvc/?username=eroll-d1709&color=blue&style=flat-square)
-</div>
- 
 <div id="container1" align="center">
       <h3 align="center">☑️Connect with me:</h3>
         <p align="center">
@@ -37,7 +22,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eroltd23@gmail.com)
   </p>
  </div>
-<br>
+<br><br>
 
 <h3 align="center">☑️Technologies, Languages and Tools</h3>
   <div id="container" align="center">
@@ -54,15 +39,49 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
- <br>
+<br><br>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 10px;">
+        🔴I am Erolcan Taşdemir. I graduated from the database management department in high school and later graduated from the computer programming field at the university. I actively improve my skills in C# and Python every day. Reading code is a pleasure for me, much like reading books, and I take great joy in doing it during my free time. I strongly recommend this to everyone.🔎
+    </div>
+</div>
+<br><br>
 
+<div align="center">
+🌟 My Interests   
+  </div>
+<br>
+
+<div align="center">
+            🚀 Project Development ❗️
+            📄 Source Code Reading ❗️
+            🔢 Data Manipulation❗️
+            🔗 Software Integration ❗️
+ </div>
+ 
+ <br><br>
+ 
+ <div align="center">           
+🌟 My Hobbies  
+  </div>
+ <br>
+<div align="center">           
+            🎮 Playing Computer Games❗️
+            📚 Reading Books❗️
+            🔍 Researching❗️
+            💻 Coding ❗️      
+</div>
+ 
+ <br> <br>
 <div id="container2" align="center">
-      <h3 align="center">☑️Statistics</h3>
         <p align="center">
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=radical)
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=eroll-d1709&color=blue&style=flat-square)
       </p>
  </div>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
