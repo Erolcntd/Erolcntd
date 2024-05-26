@@ -60,6 +60,10 @@
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=highcontrast)
       </p>
  </div>
+ <div id="container1" align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Erolcntd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
  <hr>
 <div id="container1" align="center">
       <h3 align="center">☑️Connect with me:</h3>
@@ -89,4 +93,5 @@
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
