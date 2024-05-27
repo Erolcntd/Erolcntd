@@ -1,8 +1,6 @@
-<br>
-<div align="center">
- <a href="https://github.com/Erolcntd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Erolcan+Taşdemir;Software+Developer;Welcome+To+My+Profile" alt="Typing SVG" />
- </a>
+<div align=center>
+<p align="center">
+  <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile!;Erolcan+Taşdemir;Data+Sience;Software+Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
  
  ![](https://komarev.com/ghpvc/?username=Erolcntd)
 </div>
@@ -21,7 +19,7 @@
 </div>
 <br><br><br>
 <div align="center">
- <hr>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 🟢 My Interests
 </div>
         <ul>
@@ -32,7 +30,7 @@
         </ul>
     </div>
 <div align="center">
- <hr>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 🔵 My Hobbies
 </div>
         <ul>
@@ -44,7 +42,7 @@
     </div>
 </div>
 <div align="center">
- <hr>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 👇 Below are some of my projects:👇
 </div>
 
@@ -52,7 +50,7 @@
 2. [Python_with_User_analysis](https://github.com/Erolcntd/Python_with_User_analysis)✔️
 3. [reminder-alarm](https://github.com/Erolcntd/reminder-alarm)✔️
  <br> <br>
- <hr>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <div id="container2" align="center">
         <p align="center">
 
@@ -64,7 +62,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erolcntd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
- <hr>
 <div id="container1" align="center">
       <h3 align="center">☑️Connect with me:</h3>
         <p align="center">
@@ -76,7 +73,7 @@
  </div>
 
 <br>
-<h3 align="center">☑️Technologies, Languages and Tools</h3>
+<h3 align="center" > <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> Technologies, Languages and Tools</h3>
   <div id="container" align="center">
         <p align="center"> 
           
@@ -91,6 +88,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
