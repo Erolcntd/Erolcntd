@@ -55,6 +55,9 @@
         <p align="center">
 <div align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">Statistics
+  <div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
 </div>
 <br>
   
@@ -71,6 +74,9 @@
 <br>
 <div id="container1" align="center">
       <h3 align="center"><img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>Connect with me:</h3>
+  <div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
         <p align="center">
           
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erolcan-taşdemir-912797292/)
@@ -81,6 +87,9 @@
 
 <br>
 <h3 align="center" > <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> Technologies, Languages and Tools</h3>
+<div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
   <div id="container" align="center">
         <p align="center"> 
           
