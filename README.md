@@ -53,17 +53,24 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <div id="container2" align="center">
         <p align="center">
-
+<div align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">Statistics
+</div>
+<br>
+  
 ![Erolcntd's github stats](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=highcontrast)
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=highcontrast)
-      </p>
- </div>
- <div id="container1" align="center">
+</p>
+<br>
+</div>
+<br>
+<div id="container1" align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erolcntd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+<br>
 <div id="container1" align="center">
-      <h3 align="center">☑️Connect with me:</h3>
+      <h3 align="center"><img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>Connect with me:</h3>
         <p align="center">
           
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erolcan-taşdemir-912797292/)
