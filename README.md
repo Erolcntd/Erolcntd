@@ -3,12 +3,12 @@
   <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="MasterHead" style="width: 1100px; height: 550px;">
 </p>
 <br>
-<br>
+
 <div align=center>
 <p align="center">
   <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile!;Erolcan+Taşdemir;Data+Sience;Software+Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
  
- ![](https://komarev.com/ghpvc/?username=Erolcntd)
+
 </div>
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 10px;">
@@ -48,16 +48,19 @@
 2. [Python_with_User_analysis](https://github.com/Erolcntd/Python_with_User_analysis)✔️
 3. [reminder-alarm](https://github.com/Erolcntd/reminder-alarm)✔️
  <br> <br>
+ 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-<div id="container2" align="center">
-        <p align="center">
+
+
 <div align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">Statistics
+  
   <div align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+    
+![](https://komarev.com/ghpvc/?username=Erolcntd)
 </div> 
-</div>
-<br>
+
   
 ![Erolcntd's github stats](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=highcontrast)
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=highcontrast)
