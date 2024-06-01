@@ -1,84 +1,27 @@
+<div align=center>
+<p align="center">
+  <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile!;Erolcan+Taşdemir;Data+Sience;Software+Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+
+  ![](https://komarev.com/ghpvc/?username=Erolcntd)
+</div>
 
 <p align="center">  
   <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="MasterHead" style="width: 1100px; height: 550px;">
 </p>
 <br>
 
-<div align=center>
-<p align="center">
-  <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile!;Erolcan+Taşdemir;Data+Sience;Software+Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
- 
 
-</div>
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 10px;">
         🟠"I am a graduate in Software Programming. I constantly strive to advance myself every day. I have set goals and endeavors to develop myself in the fields of Data Science and Artificial Intelligence. The languages I mostly use are Python, Java, C#, R, and C++. I particularly focus on these languages and strive to enhance my skills on various libraries associated with them. I read source codes written by others every day, which allows me to see what other developers can achieve and try to grasp something from them. Thanks to my detail-oriented personality, I immerse myself deeply into any topic I desire and do my best to learn it in the most detailed manner possible. As software development is something I do willingly and enjoyably, I demonstrate high potential in the field. I take pride in being a part of this industry."
     </div>
 </div>
 <br><br><br>
-<div align="center">
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-🟢 My Interests
-</div>
-        <ul>
-            <li>🚀 Project Development</li>
-            <li>📄 Source Code Reading</li>
-            <li>🔢 Data Manipulation</li>
-            <li>🔗 Software Integration</li>
-        </ul>
-    </div>
-<div align="center">
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-🔵 My Hobbies
-</div>
-        <ul>
-            <li>🎮 Playing Computer Games</li>
-            <li>📚 Reading Books</li>
-            <li>🔍 Researching</li>
-            <li>💻 Coding</li>
-        </ul>
-    </div>
-</div>
-<div align="center">
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-👇 Below are some of my projects:👇
-</div>
-
-1. [XML to XSLT trasform](https://github.com/Erolcntd/XMl-To-XSLT)✔️
-2. [Python_with_User_analysis](https://github.com/Erolcntd/Python_with_User_analysis)✔️
-3. [reminder-alarm](https://github.com/Erolcntd/reminder-alarm)✔️
- <br> <br>
- 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
-<div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">Statistics
-  
-  <div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-    
-![](https://komarev.com/ghpvc/?username=Erolcntd)
-</div> 
-
-  
-![Erolcntd's github stats](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=highcontrast)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=highcontrast)
-</p>
-<br>
-</div>
-<br>
 <div id="container1" align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Erolcntd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-<br>
-<div id="container1" align="center">
-      <h3 align="center"><img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>Connect with me:</h3>
-  <div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
-        <p align="center">
+      <h2 align="center"><img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>Connect with me:</h2>
+<p align="center">
           
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erolcan-taşdemir-912797292/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eroll.d1709)
@@ -87,10 +30,7 @@
  </div>
 
 <br>
-<h3 align="center" > <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> Technologies, Languages and Tools</h3>
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
+<h2 align="center" > <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> Technologies, Languages and Tools</h2>
   <div id="container" align="center">
         <p align="center"> 
           
@@ -105,6 +45,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<br><br>
+
+
+<div align="center">
+<h2 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">Statistics</h2>
+    
+![Erolcntd's github stats](https://github-readme-stats.vercel.app/api?username=Erolcntd&show_icons=true&theme=highcontrast)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Erolcntd&layout=compact&theme=highcontrast)
 </p>
+<br>
+</div>
+<br>
+<div id="container1" align="center">
+</div>
+
+
