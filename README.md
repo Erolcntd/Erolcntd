@@ -1,8 +1,6 @@
 <div align=center>
 <p align="center">
   <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile!;Erolcan+Taşdemir;Data+Sience;Software+Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-
-  ![](https://komarev.com/ghpvc/?username=Erolcntd)
 </div>
 
 <p align="center">  
