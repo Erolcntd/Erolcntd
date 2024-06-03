@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">  
-  <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="MasterHead" style="width: 1100px; height: 400px;">
+  <img src="https://i.pinimg.com/originals/df/2f/e1/df2fe1c94284383ebc90771a84e148be.jpg" alt="MasterHead" style="width: 1400px; height: 600px;">
 </p>
 <br>
 
