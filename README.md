@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">  
-  <img src="https://i.pinimg.com/originals/df/2f/e1/df2fe1c94284383ebc90771a84e148be.jpg" alt="MasterHead" style="width: 1400px; height: 500px;">
+  <img src="https://i.pinimg.com/originals/df/2f/e1/df2fe1c94284383ebc90771a84e148be.jpg" alt="MasterHead" style="width: 1400px; height: 450px;">
 </p>
 <br>
 
