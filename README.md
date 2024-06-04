@@ -1,6 +1,6 @@
 <div align=center>
 <p align="center">
-  <a href="https://github.com/Erolcntd"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile!;Erolcan+Taşdemir;Data+Sience;Software+Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Erolcntd"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile!;Erolcan+Taşdemir;Data+Sience;Software+Developer;&font=Pacifico&center=true&width=650&height=120&color=eead0e&vCenter=true&size=45%22"></a>
 </div>
 
 <p align="center">  
