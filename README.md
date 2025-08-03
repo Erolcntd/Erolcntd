@@ -9,13 +9,6 @@
 <br>
 
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 10px;">
-        🟠"I am a graduate in Software Programming. I constantly strive to advance myself every day. I have set goals and endeavors to develop myself in the fields of Data Science and Artificial Intelligence. The languages I mostly use are Python, Java, C#, R, and C++. I particularly focus on these languages and strive to enhance my skills on various libraries associated with them. I read source codes written by others every day, which allows me to see what other developers can achieve and try to grasp something from them. Thanks to my detail-oriented personality, I immerse myself deeply into any topic I desire and do my best to learn it in the most detailed manner possible. As software development is something I do willingly and enjoyably, I demonstrate high potential in the field. I take pride in being a part of this industry."
-    </div>
-</div>
-<br><br><br>
-
 
 <div id="container1" align="center">
       <h2 align="center"><img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>Connect with me:</h2>
