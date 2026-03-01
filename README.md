@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8470ff&text=EROLCAN%20TAŞDEMİR&textBg=false&section=header&fontColor=cae1ff&fontSize=40&animation=twinkling&desc=Software%20Developer%20|%20Data%20Science%20|%20Automation%20Systems&descAlign=50&descAlignY=58&reversal=false&stroke=8b4500&strokeWidth=2&fontAlignY=39" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8470ff&text=EROLCAN%20TAŞDEMİR&textBg=false&section=header&fontColor=cae1ff&fontSize=40&animation=twinkling&desc=Software%20Developer%20|%20Data%20Science%20|%20Automation%20Systems&descAlign=50&descAlignY=58&reversal=false&stroke=8b4500&strokeWidth=2&fontAlignY=39" />
 
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="1000"/>
 
