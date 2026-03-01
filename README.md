@@ -2,19 +2,11 @@
 
 # Erolcan Taşdemir
 
-Python & R Developer | Data Science | Automation Systems
+Software Developer | Data Science | Automation Systems
 
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="1000"/>
 
 <br><br>
-
-<a href="https://instagram.com/erolcn.34">
-<img src="https://img.icons8.com/color/48/instagram-new.png" width="28"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/erolcan-taşdemir-912797292/">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
-</a>
 
 </div>
 
@@ -43,4 +35,11 @@ Automation: Process automation, data workflows, scripting systems
 - Structured and maintainable code  
 - Reproducible analysis processes  
 - Performance-aware data processing  
-- Scalable automation systems  
+- Scalable automation systems
+
+<div align="center">
+  
+[![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://instagram.com/erolcn.34)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/erolcan-taşdemir-912797292/)
+</div>
