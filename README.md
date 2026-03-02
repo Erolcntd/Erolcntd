@@ -97,12 +97,4 @@ Automation: Process automation, data workflows, scripting systems
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/erolcan-taşdemir-912797292/)
 </div>
 
----
-
-<p align="center">
-  <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@Erolcntd.github?name=Moe-counter.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
-  </a>
-</p>
-
 
