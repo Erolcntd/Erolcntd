@@ -7,7 +7,7 @@
 
 </div>
 
----
+
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
 <!-- <img src="skill.png"> -->
@@ -61,7 +61,6 @@
 </table>
 
 
----
 
 ## Profile
 
@@ -70,7 +69,6 @@ My work centers on data analysis, data processing, workflow automation, and stru
 
 I aim to build measurable, sustainable, and data-driven solutions.
 
----
 
 ## Areas of Expertise
 
@@ -79,7 +77,6 @@ Database: MySQL
 Data Science: Data analysis, modeling, data cleaning, statistical analysis  
 Automation: Process automation, data workflows, scripting systems  
 
----
 
 ## Working Approach
 
@@ -88,7 +85,6 @@ Automation: Process automation, data workflows, scripting systems
 - Performance-aware data processing  
 - Scalable automation systems
 
----
 
 <div align="center">
   
